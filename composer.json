@@ -1,0 +1,20 @@
+{
+  "name": "bariscimen/ObserverPatternPHP",
+  "description": "An example of Observer Design Pattern in PHP",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "bariscimen",
+      "email": "barcimen@gmail.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
